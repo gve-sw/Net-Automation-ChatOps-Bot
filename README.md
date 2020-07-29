@@ -16,7 +16,7 @@ This is a ChatOps Webex bot that uses Python scripts to return several different
 ## Installation and Usage
 In order to run this in your environment, you can start by cloning the repo:
 ```
-$ git clone https://wwwin-github.cisco.com/gve/Net-Automation-ChatOps-Bot.git
+$ git clone https://github.com/gve-sw/Net-Automation-ChatOps-Bot.git
 
 ```
 Next, if you don't already have a Cisco Webex account, go ahead and register for one.  They are free.
